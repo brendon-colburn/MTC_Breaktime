@@ -1,0 +1,1 @@
+{"DataSources":[{"Name":"RadioSample","Schema":"*[Value:n]","IsSampleData":true,"IsWritable":false,"Type":"StaticDataSourceInfo","OriginalSchema":"*[Value:n]","Data":"[{\"Value\":1.0},{\"Value\":2.0}]","OriginalName":"RadioSample","OrderedColumnNames":["Value"]}]}

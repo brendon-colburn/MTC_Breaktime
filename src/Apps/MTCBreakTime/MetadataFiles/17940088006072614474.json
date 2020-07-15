@@ -1,0 +1,77 @@
+//// Unformatted: {"schemaVersion":"1.0","appDefinitionTemplate":{"id":"/providers/Microsoft.PowerApps/apps/","type":"Microsoft.PowerApps/apps","tags":{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"20200520T221445Z-3.20051.16.0","deviceCapabilities":"","supportsPortrait":"false","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.20051.16","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"},"properties":{"appVersion":"2020-05-20T22:14:45Z","lifeCycleId":"Published","createdByClientVersion":{"major":3,"minor":20051,"build":16,"revision":0,"majorRevision":0,"minorRevision":0},"minClientVersion":{"major":3,"minor":20051,"build":16,"revision":0,"majorRevision":0,"minorRevision":0},"backgroundColor":"rgba(0, 176, 240, 1)","backgroundImageUri":"/17940088006072614474/N3533985e-5cc3-45e0-8644-0b262033e2e4-logoSmallFile","displayName":"MTCBreakTime","description":"","commitMessage":"","appUris":{"documentUri":{"value":"/17940088006072614474/Nefe391df-80c9-42be-8f06-06d25151175d-document.msapp","readonlyValue":"/17940088006072614474/Nefe391df-80c9-42be-8f06-06d25151175d-document.msapp"},"imageUris":[]},"createdTime":"0001-01-01T00:00:00Z","lastModifiedTime":"0001-01-01T00:00:00Z","sharedGroupsCount":0,"sharedUsersCount":0,"icons":{"smallIconUri":"/17940088006072614474/N00632cb2-1923-40fe-a4e3-17b6046a4f3e-small.png","mediumIconUri":"/17940088006072614474/N21c1d3f2-f747-4a31-91fc-ee60a5baa013-medium.png","largeIconUri":"/17940088006072614474/N89adf19f-34ea-47ae-b283-75d355bd339c-large.png","wideIconUri":"/17940088006072614474/N2b11a33f-07a9-4eeb-b804-cb1544a27474-wide.png"},"connectionReferences":{},"authorizationReferences":[{"resourceId":"microsoftstream"}],"databaseReferences":{},"almMode":"Environment","performanceOptimizationEnabled":true,"canConsumeAppPass":true},"isAppComponentLibrary":false,"appType":"ClassicCanvasApp","appComponents":[]}}
+{
+  "schemaVersion": "1.0",
+  "appDefinitionTemplate": {
+    "id": "/providers/Microsoft.PowerApps/apps/",
+    "type": "Microsoft.PowerApps/apps",
+    "tags": {
+      "primaryDeviceWidth": "1366",
+      "primaryDeviceHeight": "768",
+      "sienaVersion": "20200520T221445Z-3.20051.16.0",
+      "deviceCapabilities": "",
+      "supportsPortrait": "false",
+      "supportsLandscape": "true",
+      "primaryFormFactor": "Tablet",
+      "publisherVersion": "3.20051.16",
+      "minimumRequiredApiVersion": "2.2.0",
+      "hasComponent": "false",
+      "hasUnlockedComponent": "false",
+      "isUnifiedRootApp": "false"
+    },
+    "properties": {
+      "appVersion": "2020-05-20T22:14:45Z",
+      "lifeCycleId": "Published",
+      "createdByClientVersion": {
+        "major": 3,
+        "minor": 20051,
+        "build": 16,
+        "revision": 0,
+        "majorRevision": 0,
+        "minorRevision": 0
+      },
+      "minClientVersion": {
+        "major": 3,
+        "minor": 20051,
+        "build": 16,
+        "revision": 0,
+        "majorRevision": 0,
+        "minorRevision": 0
+      },
+      "backgroundColor": "rgba(0, 176, 240, 1)",
+      "backgroundImageUri": "/17940088006072614474/N3533985e-5cc3-45e0-8644-0b262033e2e4-logoSmallFile",
+      "displayName": "MTCBreakTime",
+      "description": "",
+      "commitMessage": "",
+      "appUris": {
+        "documentUri": {
+          "value": "/17940088006072614474/Nefe391df-80c9-42be-8f06-06d25151175d-document.msapp",
+          "readonlyValue": "/17940088006072614474/Nefe391df-80c9-42be-8f06-06d25151175d-document.msapp"
+        },
+        "imageUris": []
+      },
+      "createdTime": "0001-01-01T00:00:00Z",
+      "lastModifiedTime": "0001-01-01T00:00:00Z",
+      "sharedGroupsCount": 0,
+      "sharedUsersCount": 0,
+      "icons": {
+        "smallIconUri": "/17940088006072614474/N00632cb2-1923-40fe-a4e3-17b6046a4f3e-small.png",
+        "mediumIconUri": "/17940088006072614474/N21c1d3f2-f747-4a31-91fc-ee60a5baa013-medium.png",
+        "largeIconUri": "/17940088006072614474/N89adf19f-34ea-47ae-b283-75d355bd339c-large.png",
+        "wideIconUri": "/17940088006072614474/N2b11a33f-07a9-4eeb-b804-cb1544a27474-wide.png"
+      },
+      "connectionReferences": {},
+      "authorizationReferences": [
+        {
+          "resourceId": "microsoftstream"
+        }
+      ],
+      "databaseReferences": {},
+      "almMode": "Environment",
+      "performanceOptimizationEnabled": true,
+      "canConsumeAppPass": true
+    },
+    "isAppComponentLibrary": false,
+    "appType": "ClassicCanvasApp",
+    "appComponents": []
+  }
+}

@@ -1,0 +1,1 @@
+.\canvasapppackager /a:pack /z:"../dist/MTCBreakTime.zip" /f:"../src"

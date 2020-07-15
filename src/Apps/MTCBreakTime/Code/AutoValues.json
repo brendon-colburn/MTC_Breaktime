@@ -1,0 +1,265 @@
+{
+  "Values": [
+    {
+      "Name": "App",
+      "PublishOrderIndex": 0,
+      "ControlUniqueId": "1"
+    },
+    {
+      "Name": "ConfigScreen",
+      "PublishOrderIndex": 0,
+      "ControlUniqueId": "3"
+    },
+    {
+      "Name": "ConfigScreen\r\nButton1",
+      "ZIndex": "5",
+      "PublishOrderIndex": 26,
+      "ControlUniqueId": "30"
+    },
+    {
+      "Name": "ConfigScreen\r\nButton4",
+      "ZIndex": "19",
+      "PublishOrderIndex": 23,
+      "ControlUniqueId": "27"
+    },
+    {
+      "Name": "ConfigScreen\r\nchkShowSurvey",
+      "ZIndex": "10",
+      "PublishOrderIndex": 11,
+      "ControlUniqueId": "15"
+    },
+    {
+      "Name": "ConfigScreen\r\nchkShowTimer",
+      "ZIndex": "17",
+      "PublishOrderIndex": 12,
+      "ControlUniqueId": "16"
+    },
+    {
+      "Name": "ConfigScreen\r\nhdrSurveyQRCode",
+      "ZIndex": "11",
+      "PublishOrderIndex": 14,
+      "ControlUniqueId": "18"
+    },
+    {
+      "Name": "ConfigScreen\r\nhdrSurveyURL",
+      "ZIndex": "9",
+      "PublishOrderIndex": 22,
+      "ControlUniqueId": "26"
+    },
+    {
+      "Name": "ConfigScreen\r\nhdrSurveyURL_1",
+      "ZIndex": "13",
+      "PublishOrderIndex": 17,
+      "ControlUniqueId": "21"
+    },
+    {
+      "Name": "ConfigScreen\r\nhdrWaitMsg",
+      "ZIndex": "8",
+      "PublishOrderIndex": 2,
+      "ControlUniqueId": "6"
+    },
+    {
+      "Name": "ConfigScreen\r\nhdrWaitMsg_1",
+      "ZIndex": "15",
+      "PublishOrderIndex": 8,
+      "ControlUniqueId": "12"
+    },
+    {
+      "Name": "ConfigScreen\r\nhdrWaitMsg_2",
+      "ZIndex": "26",
+      "PublishOrderIndex": 3,
+      "ControlUniqueId": "7"
+    },
+    {
+      "Name": "ConfigScreen\r\nLabel1",
+      "ZIndex": "25",
+      "PublishOrderIndex": 9,
+      "ControlUniqueId": "13"
+    },
+    {
+      "Name": "ConfigScreen\r\nLabel10",
+      "ZIndex": "20",
+      "PublishOrderIndex": 16,
+      "ControlUniqueId": "20"
+    },
+    {
+      "Name": "ConfigScreen\r\nLabel11",
+      "ZIndex": "21",
+      "PublishOrderIndex": 25,
+      "ControlUniqueId": "29"
+    },
+    {
+      "Name": "ConfigScreen\r\nLabel12",
+      "ZIndex": "23",
+      "PublishOrderIndex": 1,
+      "ControlUniqueId": "5"
+    },
+    {
+      "Name": "ConfigScreen\r\nLabel8",
+      "ZIndex": "16",
+      "PublishOrderIndex": 18,
+      "ControlUniqueId": "22"
+    },
+    {
+      "Name": "ConfigScreen\r\nlblQRCode",
+      "ZIndex": "7",
+      "PublishOrderIndex": 21,
+      "ControlUniqueId": "25"
+    },
+    {
+      "Name": "ConfigScreen\r\nRadio1",
+      "ZIndex": "24",
+      "PublishOrderIndex": 6,
+      "ControlUniqueId": "10"
+    },
+    {
+      "Name": "ConfigScreen\r\nRectangle1",
+      "ZIndex": "3",
+      "PublishOrderIndex": 13,
+      "ControlUniqueId": "17"
+    },
+    {
+      "Name": "ConfigScreen\r\nRectangle1_1",
+      "ZIndex": "2",
+      "PublishOrderIndex": 15,
+      "ControlUniqueId": "19"
+    },
+    {
+      "Name": "ConfigScreen\r\nRectangle1_2",
+      "ZIndex": "1",
+      "PublishOrderIndex": 7,
+      "ControlUniqueId": "11"
+    },
+    {
+      "Name": "ConfigScreen\r\nRectangle2",
+      "ZIndex": "22",
+      "PublishOrderIndex": 0,
+      "ControlUniqueId": "4"
+    },
+    {
+      "Name": "ConfigScreen\r\nTxtBRBMessage",
+      "ZIndex": "6",
+      "PublishOrderIndex": 4,
+      "ControlUniqueId": "8"
+    },
+    {
+      "Name": "ConfigScreen\r\ntxtBreakTitle",
+      "ZIndex": "27",
+      "PublishOrderIndex": 5,
+      "ControlUniqueId": "9"
+    },
+    {
+      "Name": "ConfigScreen\r\nTxtStreamURL",
+      "ZIndex": "14",
+      "PublishOrderIndex": 10,
+      "ControlUniqueId": "14"
+    },
+    {
+      "Name": "ConfigScreen\r\nTxtSurveyMessage",
+      "ZIndex": "12",
+      "PublishOrderIndex": 20,
+      "ControlUniqueId": "24"
+    },
+    {
+      "Name": "ConfigScreen\r\nTxtSurveyURL",
+      "ZIndex": "4",
+      "PublishOrderIndex": 24,
+      "ControlUniqueId": "28"
+    },
+    {
+      "Name": "ConfigScreen\r\ntxtTimerMinutes",
+      "ZIndex": "18",
+      "PublishOrderIndex": 19,
+      "ControlUniqueId": "23"
+    },
+    {
+      "Name": "DisplayScreen",
+      "PublishOrderIndex": 0,
+      "ControlUniqueId": "31"
+    },
+    {
+      "Name": "DisplayScreen\r\nAddMediaButton1",
+      "ZIndex": "15",
+      "PublishOrderIndex": 40,
+      "ControlUniqueId": "44"
+    },
+    {
+      "Name": "DisplayScreen\r\nConfigButton",
+      "ZIndex": "12",
+      "PublishOrderIndex": 29,
+      "ControlUniqueId": "34"
+    },
+    {
+      "Name": "DisplayScreen\r\nimgSurveyQR",
+      "ZIndex": "5",
+      "PublishOrderIndex": 37,
+      "ControlUniqueId": "41"
+    },
+    {
+      "Name": "DisplayScreen\r\nLabel6",
+      "ZIndex": "9",
+      "PublishOrderIndex": 34,
+      "ControlUniqueId": "38"
+    },
+    {
+      "Name": "DisplayScreen\r\nLblBRB",
+      "ZIndex": "4",
+      "PublishOrderIndex": 31,
+      "ControlUniqueId": "35"
+    },
+    {
+      "Name": "DisplayScreen\r\nLblBreakTitle",
+      "ZIndex": "11",
+      "PublishOrderIndex": 28,
+      "ControlUniqueId": "33"
+    },
+    {
+      "Name": "DisplayScreen\r\nlblSurveyCaption",
+      "ZIndex": "7",
+      "PublishOrderIndex": 36,
+      "ControlUniqueId": "40"
+    },
+    {
+      "Name": "DisplayScreen\r\nlblSurveyURL",
+      "ZIndex": "6",
+      "PublishOrderIndex": 38,
+      "ControlUniqueId": "42"
+    },
+    {
+      "Name": "DisplayScreen\r\nMicrosoftStream1",
+      "ZIndex": "3",
+      "PublishOrderIndex": 33,
+      "ControlUniqueId": "37"
+    },
+    {
+      "Name": "DisplayScreen\r\nPictureDisplay",
+      "ZIndex": "13",
+      "PublishOrderIndex": 30,
+      "ControlUniqueId": "45"
+    },
+    {
+      "Name": "DisplayScreen\r\nRectangle2_1",
+      "ZIndex": "10",
+      "PublishOrderIndex": 27,
+      "ControlUniqueId": "32"
+    },
+    {
+      "Name": "DisplayScreen\r\nRectangle3",
+      "ZIndex": "2",
+      "PublishOrderIndex": 35,
+      "ControlUniqueId": "39"
+    },
+    {
+      "Name": "DisplayScreen\r\nTimer1",
+      "ZIndex": "8",
+      "PublishOrderIndex": 39,
+      "ControlUniqueId": "43"
+    },
+    {
+      "Name": "DisplayScreen\r\nUploadedImage1",
+      "ZIndex": "14",
+      "PublishOrderIndex": 32,
+      "ControlUniqueId": "36"
+    }
+  ]
+}
