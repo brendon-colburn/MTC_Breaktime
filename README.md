@@ -24,8 +24,23 @@ When you press the run button the screen will switch and the timer will start.
 # Configuration
 Once you press run you can get back to the configuration screen anytime by pressing the gear icon in the upper right corner. 
 
-# Installation
-Download the .zip file from the PowerAppExport directory and import it into your PowerApps environment.  For instructions on how to import apps into PowerApps see this article: [https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/](https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/)
+# Simple Installation
+Download the .zip file from the dist directory and import it into your PowerApps environment.  For instructions on how to import apps into PowerApps see this article: [https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/](https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/)
+
+# Advanced Installation
+If you would like to collaborate with others on this solution or contribute to the growth of this open source solution we recommend utilizing this method:
+
+1. Fork and clone this repo local
+2. Follow the simple installation instructions to get the Power App into your environment
+3. Make your changes
+4. Export your Canvas App Package
+5. Overwrite the package in /dist with what you exported
+6. Run unpack.bat in /canvasapppackager
+7. (OPTIONAL) Run pack.bat in /canvasapppackager
+8. Commit and push your changes
+9. Pull Request back to Main
+
+After you perform these steps you should be able to appreciate the benefit of seeing the changes your proposing extracted out from the .zip file. This helps provide better transparency of changes and facilitates better collaboration between teammates.
 
 # Contributing
 
